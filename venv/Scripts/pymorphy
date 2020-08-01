@@ -1,0 +1,4 @@
+#!d:\my_files\projects\python\ml2\dostoevsky service\venv\scripts\python.exe
+import sys
+from pymorphy2 import cli
+sys.exit(cli.main())
